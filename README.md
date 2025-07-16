@@ -1,284 +1,136 @@
 <!-- ============================================================
                              HEADING
 ============================================================== -->
-<h1 align="center"> <img
-      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Gauri <img
-      src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
+<h1 align="center"> 
+  <img src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif" width="80"/> 
+  Hello there... I am Gauri 
+  <img src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/>
+</h1>
 
 <div align="center">
-  <a href="www.linkedin.com/in/gauri-sawant-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/gauri-sawant-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/GauriSawant" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
+  </a>
+  <a href="mailto:gaursawantas99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">👩‍💻  About me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
 
-###
-
-<p align="left">My journey into the world of web development began with a keen interest in problem-solving and a love for technology. From an early age, computers fascinated me, and I was captivated by the endless possibilities they offer. This curiosity led me to pursue a career in software development.
-
-I began my educational journey by immersing myself in programming languages such as HTML, CSS, and JavaScript. Gradually refining my skills, I delved into the intricacies of both front-end and back-end development, striving to understand how each component comes together to create a seamless user experience.
-
-Throughout the learning process, I eagerly embraced challenges, constantly seeking out new opportunities to expand my knowledge. I view each project as an opportunity for growth and learning.
-
-As a novice full-stack developer, I am passionately driven to use my skills to create innovative solutions that matter. I thrive in collaborative environments where I can make my unique contribution and learn from experienced professionals. With strong skills in both front-end and back-end development, I am eagerly awaiting the opportunity to embark on this journey and continue my development as a versatile and adaptive developer.</p>
-
-###
-
-<p align="center">
- <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" alt="snake"/>
+<p align="left">
+  Full-stack developer with a passion for creating elegant, efficient solutions. My journey began with simple HTML pages and has evolved into building complex web applications. I thrive on solving problems through code and enjoy both front-end aesthetics and back-end architecture. When I'm not coding, you'll find me contributing to open-source projects, learning new technologies, or mentoring aspiring developers.
 </p>
 
-###
-
-<h2 align="left">🛠 Technologies:</h2>
-
-###
+---
 
 <p align="center">
- <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      title="HTML 5"
-      width="60"
-      height="60"
-  />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      title="CSS 3"
-      width="60"
-      height="60"
-/>
-<img src="https://img.icons8.com/color/100/null/javascript--v1.png"
-      alt="javaScript"
-      title="JavaScript"
-      width="60"
-      height="60"/>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://img.icons8.com/color/100/null/typescript.png"
-    alt="typescript"
-      width="60"
-      height="60"
-    />
+  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<h2 align="left">🛠 Tech Stack</h2>
+
+<h3 align="left">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/typescript.png" alt="TypeScript" title="TypeScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="50" height="50"/>
+   <img src="./skill-icon/NextJs.png" alt="Next.js" title="Next.js" width="60" height="60"/>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="50" height="50"/>
+</p>
+
+<h3 align="left">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/node-js.png" alt="Node.js" title="Node.js" width="50" height="50"/>
+  <img src="https://i.ibb.co/DRCBB60/express.png" alt="Express.js" title="Express.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50"/>
+  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" title="Mongoose" width="70" height="30"/>
+  <img src="https://avatars.githubusercontent.com/u/107892430?s=200&v=4" alt="Joi" title="Joi" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/87417881?s=200&v=4" alt="Zod" title="Zod" width="50" height="50"/>
+</p>
+
+<h3 align="left">📚 Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" height="50"/>
+</p>
+
+<h3 align="left">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="50" height="50"/>
+  <img src="./skill-icon/postman.png" alt="Postman" title="Postman" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" title="npm" width="50" height="50"/>
+  <img src="./skill-icon/yarn-full.png" alt="Yarn" title="Yarn" width="70" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/>
+</p>
+
+<h3 align="left">☁️ Cloud & Deployment</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="50" height="50"/>
+  <img src="https://assets.vercel.com/image/upload/v1661182217/front/favicon/vercel/180x180.png" alt="Vercel" title="Vercel" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/100/netlify.png" alt="Netlify" title="Netlify" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="50" height="50"/>
+</p>
+
+---
+
+<!--  <h2 align="left">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GauriSawant&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriSawant&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriSawant&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>-->
+
+---
+
+<h2 align="left">🏆 Achievements</h2>
+
+- 🏅 Google Developer Student Club Lead
+- 🥇 Winner at HackTheMountains Hackathon
+- 📜 Certified in Full Stack Development
+- 🎤 Speaker at multiple tech conferences
+
+
+---
+
+<h2 align="left">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gauri-sawant-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<img src="https://img.icons8.com/color/100/null/bootstrap.png"
-      alt="Bootstrap"
-      title="Bootstrap"
-      width="60"
-      height="60"/>
-<!--    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="60"
-      height="60"
-    />
+ <!--  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a> -->
- <img
-      src="./skill-icon/tailwind.png"
-      alt="tailwind"
-      title="Tailwind CSS"
-      width="60"
-      height="40"/>
-<img
-      src="https://i.ibb.co/MPVRmFv/daisyui.png"
-      alt="daisy UI"
-      title="daisy UI"
-      width="100"
-      height="40"
-    />
-<!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/100/null/material-ui.png"
-   alt="materialUI"
-      width="60"
-      height="60"/>
-  </a> -->
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      title="React"
-      width="60"
-      height="60"
-/>
-<img
-      src="./skill-icon/vite.png"
-      alt="vite"
-      title="Vite"
-      width="60"
-      height="60"/>
-<img
-      src="https://i.ibb.co/kJ7bMDx/react-route.png"
-      alt="react router"
-      title="React Router"
-      width="60"
-      height="60"/>
-<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://i.ibb.co/5WK7yWC/react-native.png"
-      alt="react native"
-      width="60"
-      height="60"
-    />
-  </a> -->
- <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      title="Redux"
-      width="60"
-      height="60"
-    />
- <img
-      src="./skill-icon/zustand.png"
-      alt="zustand"
-      title="zustand"
-      width="70"
-      height="60"
-    />
- <img
-      src="./img/skill-icon/NextJs.png"
-      alt="nextjs"
-      title="Next.js"
-      width="60"
-      height="60"/>
- <img
-      src="./skill-icon/TanStackQuery.png"
-      alt="TanStackQuery"
-      title="TanStackQuery"
-      width="60"
-      height="60"/>
- <img
-      src="https://img.icons8.com/fluency/144/null/node-js.png"
-      alt="nodejs"
-      title="Node.js"
-      width="60"
-      height="60"
-    />
- <img
-      src="https://i.ibb.co/DRCBB60/express.png"
-      alt="expressjs"
-      title="Express.js"
-      width="60"
-      height="60"
-    />
-<img
-     src="https://img.icons8.com/color/144/null/mongodb.png"
-      alt="mongodb"
-      title="MongoDB"
-      width="60"
-      height="60"/>
-<img
-     src="./skill-icon/mongoose.png"
-      alt="Mongoose"
-      title="Mongoose"
-      width="90"
-      height="60"/>
-<img
-     src="./skill-icon/joi.png"
-      alt="Joi Validation"
-      title="Joi Validation"
-      width="60"
-      height="65"/>
-<img
-     src="./skill-icon/zod.png"
-      alt="Zod Validation"
-      title="Zod Validation"
-      width="60"
-      height="55"/>
-<img
-      src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
-      alt="github"
-      title="Github"
-      width="60"
-      height="60"
-    />
-<img
-      src="https://i.ibb.co/1z7FSvN/makdown.png"
-      alt="Readme.md icons"
-      title="Readme.md"
-      width="60"
-      height="70"
-    />  
-<img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      title="Git"
-      width="60"
-      height="60"
-    />
-<img
-      src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
-      alt="VS Code"
-      title="VS Code"
-      width="60"
-      height="60"
-    />
-<img
-      src="./skill-icon/postman.png"
-      alt="Postman"
-      title="Postman"
-      width="60"
-      height="60"
-   />
-<img
-      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
-      alt="npm"
-      title="npm"
-      width="50"
-      height="50"
-    />
-<img
-      src="./skill-icon/yarn-full.png"
-      alt="yarn logo"
-      title="Yarn"
-      width="100"
-      height="50"
-    />
-<img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      title="Firebase"
-      width="60"
-      height="60"
-    />
-<img
-      src="https://i.ibb.co/TYH7xdd/vercel.png"
-      alt="Vercel logo"
-      title="Vercel"
-      width="60"
-      height="60"
-    />
- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-  alt="netlify"
-  title="Netlify"
-      width="60"
-      height="60"/>
-<img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      title="Heroku"
-      width="60"
-      height="55"
-    />
-<img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" 
-      alt="photoshop"
-      title="PhotoShop"
-      width="60"
-      height="60"/>
- <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      title="Figma"
-      width="50"
-      height="50"
-    />
- <img
-       src="https://img.icons8.com/fluency/144/null/canva.png"
-      alt="canva"
-      title="Canva"
-      width="60"
-      height="60"
-    />
+  <!-- <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>-->
+  <a href="mailto:gaurisawantas99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
