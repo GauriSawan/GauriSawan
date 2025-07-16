@@ -78,7 +78,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
     />
   </a> -->
  <img
-      src="./img/skill-icon/tailwind.png"
+      src="./skill-icon/tailwind.png"
       alt="tailwind"
       title="Tailwind CSS"
       width="60"
@@ -104,7 +104,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
       height="60"
 />
 <img
-      src="./img/skill-icon/vite.png"
+      src="./skill-icon/vite.png"
       alt="vite"
       title="Vite"
       width="60"
@@ -131,7 +131,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
       height="60"
     />
  <img
-      src="./img/skill-icon/zustand.png"
+      src="./skill-icon/zustand.png"
       alt="zustand"
       title="zustand"
       width="70"
@@ -144,7 +144,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
       width="60"
       height="60"/>
  <img
-      src="./img/skill-icon/TanStackQuery.png"
+      src="./skill-icon/TanStackQuery.png"
       alt="TanStackQuery"
       title="TanStackQuery"
       width="60"
@@ -170,19 +170,19 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
       width="60"
       height="60"/>
 <img
-     src="./img/skill-icon/mongoose.png"
+     src="./skill-icon/mongoose.png"
       alt="Mongoose"
       title="Mongoose"
       width="90"
       height="60"/>
 <img
-     src="./img/skill-icon/joi.png"
+     src="./skill-icon/joi.png"
       alt="Joi Validation"
       title="Joi Validation"
       width="60"
       height="65"/>
 <img
-     src="./img/skill-icon/zod.png"
+     src="./skill-icon/zod.png"
       alt="Zod Validation"
       title="Zod Validation"
       width="60"
@@ -216,7 +216,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
       height="60"
     />
 <img
-      src="./img/skill-icon/postman.png"
+      src="./skill-icon/postman.png"
       alt="Postman"
       title="Postman"
       width="60"
@@ -230,7 +230,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
       height="50"
     />
 <img
-      src="./img/skill-icon/yarn-full.png"
+      src="./skill-icon/yarn-full.png"
       alt="yarn logo"
       title="Yarn"
       width="100"
