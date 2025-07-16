@@ -296,5 +296,5 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saintgregoire&theme=darkhub" height="100" alt="trophy graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GauriSawant&theme=darkhub" height="100" alt="trophy graph"/>
 </div>
