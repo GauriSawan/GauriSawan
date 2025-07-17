@@ -88,7 +88,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="50" height="50"/>
   <img src="https://assets.vercel.com/image/upload/v1661182217/front/favicon/vercel/180x180.png" alt="Vercel" title="Vercel" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/netlify.png" alt="Netlify" title="Netlify" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" title="Netlify" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="50" height="50"/>
 </p>
