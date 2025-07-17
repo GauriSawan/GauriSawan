@@ -17,6 +17,9 @@
   <a href="mailto:gaursawantas99@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
   </a>
+  <a href="https://gauri-sawant.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=fcba03&logoColor=white&labelColor=white&style=for-the-badge" height="25" alt="Portfolio" />
+  </a>
 </div>
 
 ---
@@ -88,7 +91,6 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="50" height="50"/>
   <img src="https://assets.vercel.com/image/upload/v1661182217/front/favicon/vercel/180x180.png" alt="Vercel" title="Vercel" width="50" height="50"/>
-  <img src="./skill-icon/netlify.png" alt="Netlify" title="Netlify" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="50" height="50"/>
 </p>
